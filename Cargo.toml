@@ -1,6 +1,19 @@
+<<<<<<< HEAD
 [package]
 name = "rustcli"
 version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+=======
+rust-cli
+├── src
+│   ├── main.rs
+│   ├── lib.rs
+│   └── commands
+│       └── mod.rs
+├── tests
+│   └── integration_tests.rs
+├── Cargo.toml
+└── README.md
+>>>>>>> main
